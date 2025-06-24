@@ -1,6 +1,5 @@
 ### 👋 Hi there, I'm Hemanth!
-🚀 Java Full Stack Developer | Java Developer | Backend Developer | Frondend Developer | 
-☁️ Learning DevOps & Cloud | 🌐 Building modern web apps
+🚀 Java Full Stack Developer | Java Developer | Backend Developer | Frondend Developer | 🌐 Building modern web apps
 
 💡 I love solving problems and building real-world projects.
 
